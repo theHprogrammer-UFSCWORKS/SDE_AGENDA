@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"random": "cpp",
+		"atomic": "cpp",
+		"compare": "cpp",
+		"cstddef": "cpp",
+		"vector": "cpp",
+		"memory": "cpp",
+		"memory_resource": "cpp",
+		"type_traits": "cpp",
+		"new": "cpp",
+		"tuple": "cpp",
+		"utility": "cpp",
+		"cstdio": "cpp"
+	}
+}
